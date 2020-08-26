@@ -1,8 +1,12 @@
-<div align="left">
+## I am
+
+I am Gabriel Barrientos from Honduras.
 
 ### 👥 My social networks: 
 
-  <a href="https://www.facebook.com/galexbh" target="_blank"><img src="https://img.shields.io/badge/Facebook-%230077C6.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<div align="left">
+  
+  <a href="https://www.facebook.com/galexbh" target="_blank"><img src="https://img.shields.io/badge/Facebook-%233b5998.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.linkedin.com/in/galexbh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/galexbh" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.instagram.com/galexbh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
