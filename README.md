@@ -1,6 +1,6 @@
 ## I am
 
-I am Gabriel Barrientos from Honduras.
+Gabriel Barrientos from Honduras.
 
 ### 👥 My social networks: 
 
