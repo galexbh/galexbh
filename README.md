@@ -14,19 +14,28 @@ I live in Honduras, I am a student of systems engineering. I love any kind of de
   <a href="https://www.instagram.com/galexbh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
-### 🧰 Languages and Tools: 
+### 💻 Languages : 
 
 <p align="left">
+  
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="40">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40">
+  <img src="https://media.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35">
   <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="40">
   <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="40">
 </p>
 
+### 🧰 Tools:
+
 <p align="left">
+  
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40">
 <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/fxpZKChLsC4wYtoFqg/giphy.gif" width="45">
+  
 </p>
 
 ### 👨🏽‍🏫 learning: 
@@ -35,7 +44,9 @@ I live in Honduras, I am a student of systems engineering. I love any kind of de
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40">
   <img src="https://miro.medium.com/max/600/1*H_WgY_05KaESq7INv76KOw.gif" width="40">
+  <img src="https://media.giphy.com/media/cOh7oRc9Gb8QsV1Otl/giphy.gif" width="45">
 </p>
+
 
 <!--
 - 🔭 I’m currently working on ...
