@@ -17,13 +17,16 @@ I live in Honduras, I am a student of systems engineering. I love any kind of de
 ### 🧰 Languages and Tools: 
 
 <p align="left">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="40">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40">
   <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="40">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40">
   <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="40">
+</p>
+
+<p align="left">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40">
+<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40">
 </p>
 
 ### 👨🏽‍🏫 learning: 
