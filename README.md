@@ -1,6 +1,8 @@
-## I am
+<h2 align="center">Hello there! My name is Gabriel Barrientos.</h2>
 
-Gabriel Barrientos from Honduras.
+<p align='center'>
+I live in Honduras, I am a student of systems engineering. I love any kind of development and being in collaboration with more developers. When I'm not developing I listen to music (LoFi) and sometimes I watch anime or practice parkour.
+</p>
 
 ### 👥 My social networks: 
 
@@ -21,6 +23,7 @@ Gabriel Barrientos from Honduras.
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40">
   <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="40">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40">
+  <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="40">
 </p>
 
 ### 👨🏽‍🏫 learning: 
@@ -28,6 +31,7 @@ Gabriel Barrientos from Honduras.
 <p align="left">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40">
+  <img src="https://miro.medium.com/max/600/1*H_WgY_05KaESq7INv76KOw.gif" width="40">
 </p>
 
 <!--
@@ -40,3 +44,6 @@ Gabriel Barrientos from Honduras.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- GIF CREDITS -->
+<!-- giphy.com, miro.medium.com -->
