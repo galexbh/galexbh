@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! My name is Gabriel Barrientos.</h2>
 
 <p align='center'>
-I live in Honduras, I am a student of systems engineering. I love any kind of development and being in collaboration with more developers. When I'm not developing I listen to music (LoFi) and sometimes I watch anime or practice parkour.
+I live in Honduras, I am a student of systems engineering. I love to work in any kind of development and be in collaboration with more developers. When I'm not developing I listen to music (LoFi) and sometimes I watch anime or practice parkour.
 </p>
 
 ### 👥 My social networks: 
