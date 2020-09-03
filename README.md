@@ -1,3 +1,5 @@
+![banner](C:\Users\Vanhelsing\Documents\GitHub\galexbh\banner.png)
+
 <h2 align="center">Hello there! My name is Gabriel Barrientos.</h2>
 
 <p align='center'>
@@ -7,7 +9,7 @@
 ### 👥 My social networks: 
 
 <div align="left">
-  
+
   <a href="https://www.facebook.com/galexbh" target="_blank"><img src="https://img.shields.io/badge/Facebook-%233b5998.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.linkedin.com/in/galexbh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/galexbh" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -17,7 +19,7 @@
 ### 💻 Languages : 
 
 <p align="left">
-  
+
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="40">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40">
@@ -30,12 +32,12 @@
 ### 🧰 Tools:
 
 <p align="left">
-  
+
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40">
 <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40">
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90">
 <img src="https://media.giphy.com/media/fxpZKChLsC4wYtoFqg/giphy.gif" width="45">
-  
+
 </p>
 
 ### 👨🏽‍🏫 learning: 
