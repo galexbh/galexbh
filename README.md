@@ -1,4 +1,4 @@
-![banner](C:\Users\Vanhelsing\Documents\GitHub\galexbh\banner.png)
+![banner](https://user-images.githubusercontent.com/37647434/92073593-51578900-ed71-11ea-9f8c-dced8d1e6643.png)
 
 <h2 align="center">Hello there! My name is Gabriel Barrientos.</h2>
 
