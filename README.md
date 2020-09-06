@@ -12,7 +12,7 @@
 <a href="https://twitter.com/galexbh" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/galexbh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
-
+<!--
 ### 💻 Languages : 
 
 <p align="left">
@@ -45,7 +45,7 @@
   <img src="https://miro.medium.com/max/600/1*H_WgY_05KaESq7INv76KOw.gif" width="40">
   <img src="https://media.giphy.com/media/cOh7oRc9Gb8QsV1Otl/giphy.gif" width="45">
 </p>
-
+-->
 
 <!--
 - 🔭 I’m currently working on ...
