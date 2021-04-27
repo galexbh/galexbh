@@ -15,7 +15,7 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexbh&bg_color=0D1117&text_color=C9D1D9&hide_border=true&custom_title=💖 Most Used Languages 🐈&hide=VBA&hide_title=false&langs_count=11&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexbh&bg_color=0D1117&text_color=C9D1D9&hide_border=true&custom_title=💖 Most Used Languages 🐈&hide=VBA&hide_title=false&exclude_repo=annotations&langs_count=11&layout=compact" />
 </a></p>
 
 <!--
