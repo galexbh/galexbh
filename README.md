@@ -1,3 +1,4 @@
+<!--
 ![banner](https://user-images.githubusercontent.com/37647434/92073593-51578900-ed71-11ea-9f8c-dced8d1e6643.png)
 
 <h2 align="center">Hello there! My name is Gabriel Barrientos.</h2>
@@ -5,6 +6,28 @@
 <p align='center'>
 <strong>I live in Honduras, I am a student of systems engineering. I love to work in any kind of development and be in collaboration with more developers. When I'm not developing I listen to music (LoFi) and sometimes I watch anime or practice parkour.</strong>
 </p>
+-->
+
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp><br>
+            <b>
+            Hello There
+        <br>
+            I'm Galexbh, a Student, and Linux enthusiast.
+            </b>
+        <br>
+        <br>
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+        <br>
+            <b>
+            ~ Rayhan Kafi Pratama ~
+            </b>
+        <br>
+      </samp><br>
+    </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 <p align="center">
 <a href="https://www.facebook.com/galexbh" target="_blank"><img src="https://img.shields.io/badge/Facebook-%233b5998.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -13,10 +36,17 @@
 <a href="https://www.instagram.com/galexbh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
+<!-- Github Stats -->
+<p align="center">
+<br/>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexbh&bg_color=0D1117&text_color=C9D1D9&hide_border=true&custom_title=💖 Most Used Languages 🐈&hide=VBA&hide_title=false&exclude_repo=annotations&langs_count=11&layout=compact" />
-</a></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galexbh&bg_color=0D1117&text_color=C9D1D9&hide_border=true&custom_title=💖 Most Used Languages 🐈&hide=VBA&hide_title=false&exclude_repo=annotations&langs_count=11&layout=compact" />
+</a>
+</p>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
 
 <!--
 <h3 align="center">My Stats</h3>
