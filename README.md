@@ -15,14 +15,14 @@
             <b>
             Hello There
         <br>
-            I'm Galexbh, a Student, and Linux enthusiast.
+            I am Galexbh, Systems engineer and Linux expert.
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+          <image alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&pause=1000&color=BC83E3&center=true&vCenter=true&width=410&height=45&lines=I+code+beautiful%2C+aesthetic+and+scalable+programs.">
         <br>
             <b>
-            ~ Rayhan Kafi Pratama ~
+            ~ Gabriel Alexander Barrientos ~
             </b>
       </samp><br>
     </p>
