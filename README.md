@@ -15,7 +15,7 @@
             <b>
             Hello There
         <br>
-            I am Galexbh, Systems engineer and Linux expert.
+            I am Galexbh, Systems engineer and btw ... I 💜 Arch.
             </b>
         <br>
         <br>
