@@ -22,14 +22,14 @@
 </p>
 
 <!-- About -->
-<samp>
-
-- 💼 Site Reliability Engineer based in Honduras
-- 🌱 Currently learning: Port.io and AWS
-- 🐧 Daily driver: Arch Linux
-- 🎧 LoFi, anime and parkour when I'm not coding
-
-</samp>
+<p align="center">
+  <samp>
+    💼 Site Reliability Engineer based in Honduras<br>
+    🌱 Currently learning: Port.io and AWS<br>
+    🐧 Daily driver: Arch Linux<br>
+    🎧 LoFi, anime and parkour when I'm not coding
+  </samp>
+</p>
 
 <!-- Tech stack -->
 <h3 align="center"><samp>Tech Stack</samp></h3>
